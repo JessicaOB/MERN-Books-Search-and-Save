@@ -13,7 +13,8 @@ A MERN application that allows you to:
 
 ## Usage
 
-
+This app has been deployed using Heroku. Use the link to try it out:
+https://still-inlet-66335.herokuapp.com/ 
 
 Here is a screenshot of a book search: 
 
